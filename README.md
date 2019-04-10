@@ -1,3 +1,5 @@
+Works for Phpbb 3.0.*
+
 1. Save PhpbbPasswordHasher.php file in /src/Utility/
 
 2. Place  in controller:
